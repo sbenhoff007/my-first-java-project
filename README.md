@@ -16,3 +16,5 @@ Step 2: Build the Hello.class file
 Step 3: Run the application
 
 ```java Hello```
+
+![My First Java Project Success](https://github.com/sbenhoff007/my-first-java-project/blob/main/my-first-java-project.png?raw=true)
